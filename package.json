@@ -1,0 +1,19 @@
+{
+  "name": "web3rsvp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "script": "node scripts/run.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "add": "^2.0.6",
+    "hardhat": "^2.10.2",
+    "or": "^0.2.0",
+    "yarn": "^1.22.19"
+  }
+}
